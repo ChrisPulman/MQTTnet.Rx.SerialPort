@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MQTTnet.Rx.SerialPort", "MQTTnet.Rx.SerialPort\MQTTnet.Rx.SerialPort.csproj", "{F35312D8-0CE2-4334-A1E9-DE64D5575B04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionConfig", "SolutionConfig", "{FC5B8162-0934-4D9B-8E5A-707FAC149025}"
+	ProjectSection(SolutionItems) = preProject
+		..\.editorconfig = ..\.editorconfig
+		..\.gitignore = ..\.gitignore
+		..\.github\workflows\BuildOnly.yml = ..\.github\workflows\BuildOnly.yml
+		..\.github\dependabot.yml = ..\.github\dependabot.yml
+		..\Directory.Build.props = ..\Directory.Build.props
+		..\.github\workflows\dotnet.yml = ..\.github\workflows\dotnet.yml
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+		..\stylecop.json = ..\stylecop.json
+		..\Version.json = ..\Version.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		PreRelease|Any CPU = PreRelease|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35312D8-0CE2-4334-A1E9-DE64D5575B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35312D8-0CE2-4334-A1E9-DE64D5575B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35312D8-0CE2-4334-A1E9-DE64D5575B04}.PreRelease|Any CPU.ActiveCfg = PreRelease|Any CPU
+		{F35312D8-0CE2-4334-A1E9-DE64D5575B04}.PreRelease|Any CPU.Build.0 = PreRelease|Any CPU
+		{F35312D8-0CE2-4334-A1E9-DE64D5575B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35312D8-0CE2-4334-A1E9-DE64D5575B04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8232627-7AB9-436A-B946-6863B13FBEC9}
+	EndGlobalSection
+EndGlobal
