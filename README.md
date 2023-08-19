@@ -1,3 +1,5 @@
+This repo has moved to https://github.com/ChrisPulman/MQTTnet.Rx
+
 ![License](https://img.shields.io/github/license/ChrisPulman/MQTTnet.Rx.SerialPort.svg) [![Build](https://github.com/ChrisPulman/MQTTnet.Rx.SerialPort/actions/workflows/BuildOnly.yml/badge.svg)](https://github.com/ChrisPulman/MQTTnet.Rx.SerialPort/actions/workflows/BuildOnly.yml) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.SerialPort?color=pink&style=plastic) [![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.SerialPort.svg?style=plastic)](https://www.nuget.org/packages/MQTTnet.Rx.SerialPort)
 
 <p align="left">
